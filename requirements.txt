@@ -1,0 +1,5 @@
+pre-commit==2.13.0
+black==19.10b0
+pylint==2.7.4
+isort==5.8.0
+flake8==3.9.0
